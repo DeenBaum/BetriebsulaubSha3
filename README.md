@@ -1,1 +1,3 @@
 # BetriebsulaubSha3
+sha256sum Gesprächsprotokoll_21_09_26.md
+b68519b510619dde35c0f4235a81b71ab3324a67fc0f12ddab6172b8af5eff32  Gesprächsprotokoll_21_09_26.md
